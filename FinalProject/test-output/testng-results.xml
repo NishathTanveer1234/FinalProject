@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-05T08:22:28 EDT" name="Default suite" finished-at="2023-09-05T08:23:32 EDT" duration-ms="64059">
+    <groups>
+    </groups>
+    <test started-at="2023-09-05T08:22:28 EDT" name="Default test" finished-at="2023-09-05T08:23:32 EDT" duration-ms="64059">
+      <class name="com.test.TC01">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:22:28 EDT" name="BeforeMethod" finished-at="2023-09-05T08:22:31 EDT" duration-ms="3445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="VerifyLogin()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:22:31 EDT" name="VerifyLogin" finished-at="2023-09-05T08:22:32 EDT" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:22:32 EDT" name="AfterMethod" finished-at="2023-09-05T08:22:32 EDT" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:22:32 EDT" name="BeforeMethod" finished-at="2023-09-05T08:22:34 EDT" duration-ms="1584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="selectDropDown()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:22:34 EDT" name="selectDropDown" finished-at="2023-09-05T08:22:44 EDT" duration-ms="10592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDropDown -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:22:44 EDT" name="AfterMethod" finished-at="2023-09-05T08:22:44 EDT" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:22:44 EDT" name="BeforeMethod" finished-at="2023-09-05T08:22:46 EDT" duration-ms="1650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyCookieHandle()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:22:46 EDT" name="verifyCookieHandle" finished-at="2023-09-05T08:22:53 EDT" duration-ms="7429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCookieHandle -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:22:53 EDT" name="AfterMethod" finished-at="2023-09-05T08:22:54 EDT" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:22:54 EDT" name="BeforeMethod" finished-at="2023-09-05T08:22:55 EDT" duration-ms="1586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyGetWindowhandle()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:22:55 EDT" name="verifyGetWindowhandle" finished-at="2023-09-05T08:23:13 EDT" duration-ms="17650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetWindowhandle -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:23:13 EDT" name="AfterMethod" finished-at="2023-09-05T08:23:13 EDT" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:23:13 EDT" name="BeforeMethod" finished-at="2023-09-05T08:23:15 EDT" duration-ms="1710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyMouseHover()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:23:15 EDT" name="verifyMouseHover" finished-at="2023-09-05T08:23:22 EDT" duration-ms="7575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMouseHover -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:23:22 EDT" name="AfterMethod" finished-at="2023-09-05T08:23:22 EDT" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:23:22 EDT" name="BeforeMethod" finished-at="2023-09-05T08:23:24 EDT" duration-ms="1779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyScrollDown()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:23:24 EDT" name="verifyScrollDown" finished-at="2023-09-05T08:23:32 EDT" duration-ms="7589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollDown -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.test.TC01@4a83a74a]" started-at="2023-09-05T08:23:32 EDT" name="AfterMethod" finished-at="2023-09-05T08:23:32 EDT" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- com.test.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
